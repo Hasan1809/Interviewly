@@ -12,6 +12,7 @@ import MeetingModal from "@/components/MeetingModal";
 // from-green-500/10 via-green-500/5 to-transparent
 // from-purple-500/10 to via-purple-500/5 to-transparent
 // from-primary/10 via-primary/5 to-transparent
+// purple-500
 
 export default function Home() {
   const router = useRouter();
